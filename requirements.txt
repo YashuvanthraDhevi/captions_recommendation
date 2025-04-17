@@ -1,6 +1,6 @@
-streamlit 
-torch 
-pillow 
-transformers 
-scikit-learn 
+streamlit
+transformers>=4.9.0
+scikit-learn
+torch
+Pillow
 numpy
