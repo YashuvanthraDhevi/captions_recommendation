@@ -10,4 +10,5 @@ First, the input image will be preprocessed and fed into the CLIP image encoder 
 Finally, the system ranks the candidate captions based on their similarity scores and presents the top-ranked captions as recommendations.
 
 Find out best captions for your image using this app.
-App Link: captionsrecommendation-yashu.streamlit.app
+
+App Link: https://captionsrecommendation-yashu.streamlit.app/
