@@ -1,0 +1,6 @@
+streamlit 
+torch 
+pillow 
+transformers 
+scikit-learn 
+numpy
